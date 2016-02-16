@@ -1,0 +1,1 @@
+{"commandsFlow": [{"index": "0", "checker": ".*9000$", "command": "00A4040009A00000015143525300"}, {"index": "1", "checker": ".*9000$", "command": "80F00100#(4F#(AID))"}]}
